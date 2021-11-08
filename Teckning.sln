@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teckning", "Teckning\Teckning.csproj", "{1312FC0C-B8CA-487C-9487-7D79A8494C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1312FC0C-B8CA-487C-9487-7D79A8494C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1312FC0C-B8CA-487C-9487-7D79A8494C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1312FC0C-B8CA-487C-9487-7D79A8494C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1312FC0C-B8CA-487C-9487-7D79A8494C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D269C3A9-C22F-4F06-B236-437DEFAE7380}
+	EndGlobalSection
+EndGlobal
